@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FoundWorkingCopyPaths</key>
+	<array/>
+	<key>LastWorkingCopyScanDate</key>
+	<date>2013-06-22T00:54:20Z</date>
+	<key>MissingFilePaths</key>
+	<array>
+		<string>/Users/fire/development/cocos2dx/cocos2d-x-2.1.4/projects/cocos2dx/platform/third_party/ios/libraries/libcurl.a</string>
+		<string>/Users/fire/development/cocos2dx/cocos2d-x-2.1.4/projects/SnowSanta/Resources/CloseNormal.png</string>
+		<string>/Users/fire/development/cocos2dx/cocos2d-x-2.1.4/projects/SnowSanta/Resources/HelloWorld.png</string>
+		<string>/Users/fire/development/cocos2dx/cocos2d-x-2.1.4/projects/SnowSanta/Classes/HelloWorldScene.cpp</string>
+		<string>/Users/fire/development/cocos2dx/cocos2d-x-2.1.4/projects/SnowSanta/Resources/CloseSelected.png</string>
+		<string>/Users/fire/development/cocos2dx/cocos2d-x-2.1.4/projects/SnowSanta/Classes/HelloWorldScene.h</string>
+	</array>
+	<key>Version</key>
+	<integer>4</integer>
+</dict>
+</plist>

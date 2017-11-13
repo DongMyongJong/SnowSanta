@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/fire/development/cocos2dx/cocos2d-x-2.1.4/projects/SnowSanta/proj.ios/../../../external/Box2D/Dynamics/Contacts/b2Contact.cpp \
+  /Users/fire/development/cocos2dx/cocos2d-x-2.1.4/projects/SnowSanta/proj.ios/../../../external/Box2D/Dynamics/Contacts/b2Contact.h \
+  /Users/fire/development/cocos2dx/cocos2d-x-2.1.4/projects/SnowSanta/proj.ios/../../../external/Box2D/Common/b2Math.h \
+  /Users/fire/development/cocos2dx/cocos2d-x-2.1.4/projects/SnowSanta/proj.ios/../../../external/Box2D/Common/b2Settings.h \
+  /Users/fire/development/cocos2dx/cocos2d-x-2.1.4/projects/SnowSanta/proj.ios/../../../external/Box2D/Collision/b2Collision.h \
+  /Users/fire/development/cocos2dx/cocos2d-x-2.1.4/projects/SnowSanta/proj.ios/../../../external/Box2D/Collision/Shapes/b2Shape.h \
+  /Users/fire/development/cocos2dx/cocos2d-x-2.1.4/projects/SnowSanta/proj.ios/../../../external/Box2D/Common/b2BlockAllocator.h \
+  /Users/fire/development/cocos2dx/cocos2d-x-2.1.4/projects/SnowSanta/proj.ios/../../../external/Box2D/Dynamics/b2Fixture.h \
+  /Users/fire/development/cocos2dx/cocos2d-x-2.1.4/projects/SnowSanta/proj.ios/../../../external/Box2D/Dynamics/b2Body.h \
+  /Users/fire/development/cocos2dx/cocos2d-x-2.1.4/projects/SnowSanta/proj.ios/../../../external/Box2D/Dynamics/Contacts/b2CircleContact.h \
+  /Users/fire/development/cocos2dx/cocos2d-x-2.1.4/projects/SnowSanta/proj.ios/../../../external/Box2D/Dynamics/Contacts/b2PolygonAndCircleContact.h \
+  /Users/fire/development/cocos2dx/cocos2d-x-2.1.4/projects/SnowSanta/proj.ios/../../../external/Box2D/Dynamics/Contacts/b2PolygonContact.h \
+  /Users/fire/development/cocos2dx/cocos2d-x-2.1.4/projects/SnowSanta/proj.ios/../../../external/Box2D/Dynamics/Contacts/b2EdgeAndCircleContact.h \
+  /Users/fire/development/cocos2dx/cocos2d-x-2.1.4/projects/SnowSanta/proj.ios/../../../external/Box2D/Dynamics/Contacts/b2EdgeAndPolygonContact.h \
+  /Users/fire/development/cocos2dx/cocos2d-x-2.1.4/projects/SnowSanta/proj.ios/../../../external/Box2D/Dynamics/Contacts/b2ChainAndCircleContact.h \
+  /Users/fire/development/cocos2dx/cocos2d-x-2.1.4/projects/SnowSanta/proj.ios/../../../external/Box2D/Dynamics/Contacts/b2ChainAndPolygonContact.h \
+  /Users/fire/development/cocos2dx/cocos2d-x-2.1.4/projects/SnowSanta/proj.ios/../../../external/Box2D/Dynamics/Contacts/b2ContactSolver.h \
+  /Users/fire/development/cocos2dx/cocos2d-x-2.1.4/projects/SnowSanta/proj.ios/../../../external/Box2D/Dynamics/b2TimeStep.h \
+  /Users/fire/development/cocos2dx/cocos2d-x-2.1.4/projects/SnowSanta/proj.ios/../../../external/Box2D/Collision/b2TimeOfImpact.h \
+  /Users/fire/development/cocos2dx/cocos2d-x-2.1.4/projects/SnowSanta/proj.ios/../../../external/Box2D/Collision/b2Distance.h \
+  /Users/fire/development/cocos2dx/cocos2d-x-2.1.4/projects/SnowSanta/proj.ios/../../../external/Box2D/Dynamics/b2World.h \
+  /Users/fire/development/cocos2dx/cocos2d-x-2.1.4/projects/SnowSanta/proj.ios/../../../external/Box2D/Common/b2StackAllocator.h \
+  /Users/fire/development/cocos2dx/cocos2d-x-2.1.4/projects/SnowSanta/proj.ios/../../../external/Box2D/Dynamics/b2ContactManager.h \
+  /Users/fire/development/cocos2dx/cocos2d-x-2.1.4/projects/SnowSanta/proj.ios/../../../external/Box2D/Collision/b2BroadPhase.h \
+  /Users/fire/development/cocos2dx/cocos2d-x-2.1.4/projects/SnowSanta/proj.ios/../../../external/Box2D/Collision/b2DynamicTree.h \
+  /Users/fire/development/cocos2dx/cocos2d-x-2.1.4/projects/SnowSanta/proj.ios/../../../external/Box2D/Common/b2GrowableStack.h \
+  /Users/fire/development/cocos2dx/cocos2d-x-2.1.4/projects/SnowSanta/proj.ios/../../../external/Box2D/Dynamics/b2WorldCallbacks.h

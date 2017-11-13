@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>mapid</key>
+		<integer>0</integer>
+		<key>pathnum</key>
+		<integer>4</integer>
+		<key>pointnum0</key>
+		<integer>4</integer>
+		<key>pointnum1</key>
+		<integer>4</integer>
+		<key>pointnum2</key>
+		<integer>4</integer>
+		<key>pointnum3</key>
+		<integer>4</integer>
+		<key>point0000</key>
+		<string>{55, 623}</string>
+		<key>point0001</key>
+		<string>{283, 532}</string>
+		<key>point0002</key>
+		<string>{310, 365}</string>
+		<key>point0003</key>
+		<string>{137, 210}</string>
+		<key>point0100</key>
+		<string>{503, 499}</string>
+		<key>point0101</key>
+		<string>{366, 414}</string>
+		<key>point0102</key>
+		<string>{330, 274}</string>
+		<key>point0103</key>
+		<string>{330, 210}</string>
+		<key>point0200</key>
+		<string>{63, 903}</string>
+		<key>point0201</key>
+		<string>{374, 770}</string>
+		<key>point0202</key>
+		<string>{341, 422}</string>
+		<key>point0203</key>
+		<string>{620, 210}</string>
+		<key>point0300</key>
+		<string>{458, 911}</string>
+		<key>point0301</key>
+		<string>{370, 775}</string>
+		<key>point0302</key>
+		<string>{353, 474}</string>
+		<key>point0303</key>
+		<string>{131, 210}</string>
+	</dict>
+	<dict>
+		<key>mapid</key>
+		<integer>1</integer>
+		<key>pathnum</key>
+		<integer>4</integer>
+		<key>pointnum0</key>
+		<integer>4</integer>
+		<key>pointnum1</key>
+		<integer>4</integer>
+		<key>pointnum2</key>
+		<integer>4</integer>
+		<key>pointnum3</key>
+		<integer>4</integer>
+		<key>point0000</key>
+		<string>{55, 623}</string>
+		<key>point0001</key>
+		<string>{283, 532}</string>
+		<key>point0002</key>
+		<string>{310, 365}</string>
+		<key>point0003</key>
+		<string>{137, 210}</string>
+		<key>point0100</key>
+		<string>{503, 499}</string>
+		<key>point0101</key>
+		<string>{366, 414}</string>
+		<key>point0102</key>
+		<string>{330, 274}</string>
+		<key>point0103</key>
+		<string>{330, 210}</string>
+		<key>point0200</key>
+		<string>{63, 903}</string>
+		<key>point0201</key>
+		<string>{374, 770}</string>
+		<key>point0202</key>
+		<string>{341, 422}</string>
+		<key>point0203</key>
+		<string>{620, 210}</string>
+		<key>point0300</key>
+		<string>{458, 911}</string>
+		<key>point0301</key>
+		<string>{370, 775}</string>
+		<key>point0302</key>
+		<string>{353, 474}</string>
+		<key>point0303</key>
+		<string>{131, 210}</string>
+	</dict>
+	<dict>
+		<key>mapid</key>
+		<integer>2</integer>
+		<key>pathnum</key>
+		<integer>5</integer>
+		<key>pointnum0</key>
+		<integer>3</integer>
+		<key>pointnum1</key>
+		<integer>3</integer>
+		<key>pointnum2</key>
+		<integer>4</integer>
+		<key>pointnum3</key>
+		<integer>5</integer>
+		<key>pointnum4</key>
+		<integer>4</integer>
+		<key>point0000</key>
+		<string>{206, 544}</string>
+		<key>point0001</key>
+		<string>{326, 392}</string>
+		<key>point0002</key>
+		<string>{84, 210}</string>
+		<key>point0100</key>
+		<string>{570, 676}</string>
+		<key>point0101</key>
+		<string>{348, 594}</string>
+		<key>point0102</key>
+		<string>{332, 210}</string>
+		<key>point0200</key>
+		<string>{86, 856}</string>
+		<key>point0201</key>
+		<string>{312, 736}</string>
+		<key>point0202</key>
+		<string>{442, 420}</string>
+		<key>point0203</key>
+		<string>{288, 210}</string>
+		<key>point0300</key>
+		<string>{264, 892}</string>
+		<key>point0301</key>
+		<string>{324, 838}</string>
+		<key>point0302</key>
+		<string>{262, 736}</string>
+		<key>point0303</key>
+		<string>{392, 560}</string>
+		<key>point0304</key>
+		<string>{534, 210}</string>
+		<key>point0400</key>
+		<string>{652, 666}</string>
+		<key>point0401</key>
+		<string>{362, 656}</string>
+		<key>point0402</key>
+		<string>{344, 464}</string>
+		<key>point0403</key>
+		<string>{674, 210}</string>
+	</dict>
+	<dict>
+		<key>mapid</key>
+		<integer>3</integer>
+		<key>pathnum</key>
+		<integer>5</integer>
+		<key>pointnum0</key>
+		<integer>3</integer>
+		<key>pointnum1</key>
+		<integer>3</integer>
+		<key>pointnum2</key>
+		<integer>4</integer>
+		<key>pointnum3</key>
+		<integer>5</integer>
+		<key>pointnum4</key>
+		<integer>4</integer>
+		<key>point0000</key>
+		<string>{206, 544}</string>
+		<key>point0001</key>
+		<string>{326, 392}</string>
+		<key>point0002</key>
+		<string>{84, 210}</string>
+		<key>point0100</key>
+		<string>{570, 676}</string>
+		<key>point0101</key>
+		<string>{348, 594}</string>
+		<key>point0102</key>
+		<string>{332, 210}</string>
+		<key>point0200</key>
+		<string>{86, 856}</string>
+		<key>point0201</key>
+		<string>{312, 736}</string>
+		<key>point0202</key>
+		<string>{442, 420}</string>
+		<key>point0203</key>
+		<string>{288, 210}</string>
+		<key>point0300</key>
+		<string>{264, 892}</string>
+		<key>point0301</key>
+		<string>{324, 838}</string>
+		<key>point0302</key>
+		<string>{262, 736}</string>
+		<key>point0303</key>
+		<string>{392, 560}</string>
+		<key>point0304</key>
+		<string>{534, 210}</string>
+		<key>point0400</key>
+		<string>{652, 666}</string>
+		<key>point0401</key>
+		<string>{362, 656}</string>
+		<key>point0402</key>
+		<string>{344, 464}</string>
+		<key>point0403</key>
+		<string>{674, 210}</string>
+	</dict>
+	<dict>
+		<key>mapid</key>
+		<integer>4</integer>
+		<key>pathnum</key>
+		<integer>3</integer>
+		<key>pointnum0</key>
+		<integer>3</integer>
+		<key>pointnum1</key>
+		<integer>4</integer>
+		<key>pointnum2</key>
+		<integer>3</integer>
+		<key>point0000</key>
+		<string>{150, 716}</string>
+		<key>point0001</key>
+		<string>{282, 558}</string>
+		<key>point0002</key>
+		<string>{110, 210}</string>
+		<key>point0100</key>
+		<string>{260, 884}</string>
+		<key>point0101</key>
+		<string>{416, 724}</string>
+		<key>point0102</key>
+		<string>{408, 454}</string>
+		<key>point0103</key>
+		<string>{626, 210}</string>
+		<key>point0200</key>
+		<string>{532, 858}</string>
+		<key>point0201</key>
+		<string>{384, 770}</string>
+		<key>point0202</key>
+		<string>{356, 210}</string>
+	</dict>
+	<dict>
+		<key>mapid</key>
+		<integer>5</integer>
+		<key>pathnum</key>
+		<integer>3</integer>
+		<key>pointnum0</key>
+		<integer>3</integer>
+		<key>pointnum1</key>
+		<integer>4</integer>
+		<key>pointnum2</key>
+		<integer>3</integer>
+		<key>point0000</key>
+		<string>{150, 716}</string>
+		<key>point0001</key>
+		<string>{282, 558}</string>
+		<key>point0002</key>
+		<string>{110, 210}</string>
+		<key>point0100</key>
+		<string>{260, 884}</string>
+		<key>point0101</key>
+		<string>{416, 724}</string>
+		<key>point0102</key>
+		<string>{408, 454}</string>
+		<key>point0103</key>
+		<string>{626, 210}</string>
+		<key>point0200</key>
+		<string>{532, 858}</string>
+		<key>point0201</key>
+		<string>{384, 770}</string>
+		<key>point0202</key>
+		<string>{356, 210}</string>
+	</dict>
+	<dict>
+		<key>mapid</key>
+		<integer>6</integer>
+		<key>pathnum</key>
+		<integer>4</integer>
+		<key>pointnum0</key>
+		<integer>4</integer>
+		<key>pointnum1</key>
+		<integer>4</integer>
+		<key>pointnum2</key>
+		<integer>6</integer>
+		<key>pointnum3</key>
+		<integer>4</integer>
+		<key>point0000</key>
+		<string>{178, 816}</string>
+		<key>point0001</key>
+		<string>{312, 734}</string>
+		<key>point0002</key>
+		<string>{328, 532}</string>
+		<key>point0003</key>
+		<string>{94, 210}</string>
+		<key>point0100</key>
+		<string>{544, 542}</string>
+		<key>point0101</key>
+		<string>{378, 500}</string>
+		<key>point0102</key>
+		<string>{338, 312}</string>
+		<key>point0103</key>
+		<string>{436, 210}</string>
+		<key>point0200</key>
+		<string>{282, 996}</string>
+		<key>point0201</key>
+		<string>{424, 858}</string>
+		<key>point0202</key>
+		<string>{420, 798}</string>
+		<key>point0203</key>
+		<string>{286, 668}</string>
+		<key>point0204</key>
+		<string>{370, 466}</string>
+		<key>point0205</key>
+		<string>{694, 210}</string>
+		<key>point0300</key>
+		<string>{526, 900}</string>
+		<key>point0301</key>
+		<string>{406, 838}</string>
+		<key>point0302</key>
+		<string>{308, 698}</string>
+		<key>point0303</key>
+		<string>{382, 210}</string>
+	</dict>
+	<dict>
+		<key>mapid</key>
+		<integer>7</integer>
+		<key>pathnum</key>
+		<integer>4</integer>
+		<key>pointnum0</key>
+		<integer>4</integer>
+		<key>pointnum1</key>
+		<integer>4</integer>
+		<key>pointnum2</key>
+		<integer>6</integer>
+		<key>pointnum3</key>
+		<integer>4</integer>
+		<key>point0000</key>
+		<string>{178, 816}</string>
+		<key>point0001</key>
+		<string>{312, 734}</string>
+		<key>point0002</key>
+		<string>{328, 532}</string>
+		<key>point0003</key>
+		<string>{94, 210}</string>
+		<key>point0100</key>
+		<string>{544, 542}</string>
+		<key>point0101</key>
+		<string>{378, 500}</string>
+		<key>point0102</key>
+		<string>{338, 312}</string>
+		<key>point0103</key>
+		<string>{436, 210}</string>
+		<key>point0200</key>
+		<string>{282, 996}</string>
+		<key>point0201</key>
+		<string>{424, 858}</string>
+		<key>point0202</key>
+		<string>{420, 798}</string>
+		<key>point0203</key>
+		<string>{286, 668}</string>
+		<key>point0204</key>
+		<string>{370, 466}</string>
+		<key>point0205</key>
+		<string>{694, 210}</string>
+		<key>point0300</key>
+		<string>{526, 900}</string>
+		<key>point0301</key>
+		<string>{406, 838}</string>
+		<key>point0302</key>
+		<string>{308, 698}</string>
+		<key>point0303</key>
+		<string>{382, 210}</string>
+	</dict>
+	<dict>
+		<key>mapid</key>
+		<integer>8</integer>
+		<key>pathnum</key>
+		<integer>4</integer>
+		<key>pointnum0</key>
+		<integer>4</integer>
+		<key>pointnum1</key>
+		<integer>6</integer>
+		<key>pointnum2</key>
+		<integer>3</integer>
+		<key>pointnum3</key>
+		<integer>5</integer>
+		<key>point0000</key>
+		<string>{140, 886}</string>
+		<key>point0001</key>
+		<string>{268, 742}</string>
+		<key>point0002</key>
+		<string>{330, 430}</string>
+		<key>point0003</key>
+		<string>{98, 210}</string>
+		<key>point0100</key>
+		<string>{572, 992}</string>
+		<key>point0101</key>
+		<string>{492, 878}</string>
+		<key>point0102</key>
+		<string>{352, 830}</string>
+		<key>point0103</key>
+		<string>{272, 664}</string>
+		<key>point0104</key>
+		<string>{364, 408}</string>
+		<key>point0105</key>
+		<string>{664, 210}</string>
+		<key>point0200</key>
+		<string>{568, 532}</string>
+		<key>point0201</key>
+		<string>{328, 442}</string>
+		<key>point0202</key>
+		<string>{162, 210}</string>
+		<key>point0300</key>
+		<string>{304, 942}</string>
+		<key>point0301</key>
+		<string>{366, 848}</string>
+		<key>point0302</key>
+		<string>{256, 746}</string>
+		<key>point0303</key>
+		<string>{320, 540}</string>
+		<key>point0304</key>
+		<string>{320, 210}</string>
+	</dict>
+	<dict>
+		<key>mapid</key>
+		<integer>9</integer>
+		<key>pathnum</key>
+		<integer>4</integer>
+		<key>pointnum0</key>
+		<integer>4</integer>
+		<key>pointnum1</key>
+		<integer>6</integer>
+		<key>pointnum2</key>
+		<integer>3</integer>
+		<key>pointnum3</key>
+		<integer>5</integer>
+		<key>point0000</key>
+		<string>{140, 886}</string>
+		<key>point0001</key>
+		<string>{268, 742}</string>
+		<key>point0002</key>
+		<string>{330, 430}</string>
+		<key>point0003</key>
+		<string>{98, 210}</string>
+		<key>point0100</key>
+		<string>{572, 992}</string>
+		<key>point0101</key>
+		<string>{492, 878}</string>
+		<key>point0102</key>
+		<string>{352, 830}</string>
+		<key>point0103</key>
+		<string>{272, 664}</string>
+		<key>point0104</key>
+		<string>{364, 408}</string>
+		<key>point0105</key>
+		<string>{664, 210}</string>
+		<key>point0200</key>
+		<string>{568, 532}</string>
+		<key>point0201</key>
+		<string>{328, 442}</string>
+		<key>point0202</key>
+		<string>{162, 210}</string>
+		<key>point0300</key>
+		<string>{304, 942}</string>
+		<key>point0301</key>
+		<string>{366, 848}</string>
+		<key>point0302</key>
+		<string>{256, 746}</string>
+		<key>point0303</key>
+		<string>{320, 540}</string>
+		<key>point0304</key>
+		<string>{320, 210}</string>
+	</dict>
+</array>
+</plist>
